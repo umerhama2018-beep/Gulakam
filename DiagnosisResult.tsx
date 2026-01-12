@@ -1,1 +1,0 @@
-DiagnosisResult.tsx
